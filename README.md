@@ -1,6 +1,10 @@
 <h1 align="center" style="color:#333333;">Lucas Aguiar — DevOps em Evolução</h1>
 
 <p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWs3MXkwa3k0dWhmaWw5bXh5NDI5bWJ0MzVvZ2F5N2Fwem5tcGUyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif" width="150" alt="Terminal digitando" />
+</p>
+
+<p align="center">
   <b style="color:#555555;">Analista de Sistemas | DevOps & Cloud Enthusiast | IaC com Terraform | Docker | AWS em prática</b>
 </p>
 
@@ -10,6 +14,7 @@
   <img src="https://img.shields.io/badge/AWS-Cloud-555555?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Containers-555555?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-555555?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/AguiarLucass?style=for-the-badge&label=Follow&logo=github&color=555555&logoColor=00FF00" />
 </p>
 
 ---
@@ -27,11 +32,11 @@
 ### ⚙️ Tecnologias que uso e estudo
 
 - **Infraestrutura:** Terraform, AWS CloudFormation  
-- **Cloud:** AWS (EC2, S3, VPC, IAM)
+- **Cloud:** AWS (EC2, S3, VPC, IAM)  
 - **Containers:** Docker, Docker Compose  
 - **CI/CD:** GitHub Actions, GitLab CI  
 - **Monitoramento:** Zabbix, Wazuh, CloudWatch  
-- **Sistemas:** Linux, Shell Script 
+- **Sistemas:** Linux, Shell Script  
 - **Linguagens de apoio:** Python (automação), SQL
 
 ---

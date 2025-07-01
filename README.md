@@ -1,17 +1,15 @@
-<h1 align="center">
-  <img src="https://github.com/AguiarLucass/AguiarLucass/raw/main/assets/avatar-hacker-lucas.png" alt="Lucas Hacker Avatar" width="300" />
-</h1>
+<h1 align="center" style="color:#333333;">Lucas Aguiar — DevOps em Evolução</h1>
 
 <p align="center">
-  <b style="color:#00FF00;">Analista de Sistemas | DevOps & Cloud Enthusiast | IaC com Terraform | Docker | AWS em prática</b>
+  <b style="color:#555555;">Analista de Sistemas | DevOps & Cloud Enthusiast | IaC com Terraform | Docker | AWS em prática</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-DevOps-00FF00?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-IaC-00FF00?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-00FF00?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Containers-00FF00?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-00FF00?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-DevOps-555555?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-IaC-555555?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud-555555?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Containers-555555?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-555555?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
@@ -44,7 +42,20 @@
 |--------|-----------|-------------|
 | [Infra com Terraform na AWS](https://github.com/AguiarLucass/infra-terraform-medcloud) | Projeto técnico entregue para a Medcloud, com EC2 provisionado via Terraform e app em Nginx | Terraform, AWS, EC2, Shell |
 | [App HTML com Docker](https://github.com/AguiarLucass/app-html-docker) | Aplicação HTML estática servida via Nginx em container Docker | Docker, Nginx |
+| [IaC - Infra AWS S3 + EC2](https://github.com/AguiarLucass/iac-terraform-aws) | Repositório prático criando infraestrutura com Terraform na AWS | Terraform, AWS |
 | **(Em breve)** CI/CD + Monitoramento | Integração de GitHub Actions com Docker e alertas em Zabbix | GitHub Actions, Docker, Zabbix |
+
+---
+
+### 🧾 Certificações (via Credly)
+
+🔗 [Confira todas minhas certificações na Credly](https://www.credly.com/users/lucas-aguiar.7b6efc66)
+
+---
+
+### 📚 Diário DevOps
+
+> Estou documentando meu progresso na jornada DevOps em [devops-learning-journey](https://github.com/AguiarLucass/devops-learning-journey). Lá você encontra logs semanais do que estou estudando e construindo.
 
 ---
 
@@ -57,12 +68,6 @@
 
 ---
 
-### 📚 Diário DevOps
-
-> Estou documentando meu progresso na jornada DevOps em [devops-learning-journey](https://github.com/AguiarLucass/devops-learning-journey). Lá você encontra logs semanais do que estou estudando e construindo.
-
----
-
 ### 📬 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00FF00?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassilva12/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucassilva12/)

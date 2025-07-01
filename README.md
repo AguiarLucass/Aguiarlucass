@@ -27,11 +27,11 @@
 ### ⚙️ Tecnologias que uso e estudo
 
 - **Infraestrutura:** Terraform, AWS CloudFormation  
-- **Cloud:** AWS (EC2, S3, VPC, IAM), Azure (em fase inicial)  
+- **Cloud:** AWS (EC2, S3, VPC, IAM)
 - **Containers:** Docker, Docker Compose  
 - **CI/CD:** GitHub Actions, GitLab CI  
 - **Monitoramento:** Zabbix, Wazuh, CloudWatch  
-- **Sistemas:** Linux, Shell Script, Oracle  
+- **Sistemas:** Linux, Shell Script 
 - **Linguagens de apoio:** Python (automação), SQL
 
 ---
